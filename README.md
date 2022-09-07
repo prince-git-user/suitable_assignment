@@ -1,5 +1,5 @@
 # suitable_assignment
-# WQeather_app
+# Weather_app
 The Applications main goal is to create a weather app , fectch all weather related data from wather.jon file.
 - use mock server to store and retrieve data, make sure that URL is `localhost:8000/query` anything else will not work
 -sample databse - weather.json
